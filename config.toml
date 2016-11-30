@@ -5,6 +5,7 @@ title = "2 devs, 1 blog (change this later)"
 # theme = "hugo-cactus-theme"
 # required for gh-pages
 canonifyurls = true
+publishdir = "public"
 
 # hogo-minimalist-theme example settings
 # Define how many pages appear per site
