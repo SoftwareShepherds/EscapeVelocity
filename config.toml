@@ -1,6 +1,6 @@
 languageCode = "en-us"
 # in order for page menus to work correctly on posts, we need this set
-baseurl = "http://localhost:1313"
+baseurl = "https://softwareshepherds.github.io/EscapeVelocity/"
 title = "2 devs, 1 blog (change this later)"
 # theme = "hugo-cactus-theme"
 # required for gh-pages

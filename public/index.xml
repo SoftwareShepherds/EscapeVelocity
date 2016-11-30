@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 devs, 1 blog (change this later)</title>
+    <link>https://softwareshepherds.github.io/EscapeVelocity/index.xml</link>
+    <description>Recent content on 2 devs, 1 blog (change this later)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Mon, 28 Nov 2016 17:45:09 -0500</lastBuildDate>
+    <atom:link href="https://softwareshepherds.github.io/EscapeVelocity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>https://softwareshepherds.github.io/EscapeVelocity/post/welcome/</link>
+      <pubDate>Mon, 28 Nov 2016 17:45:09 -0500</pubDate>
+      
+      <guid>https://softwareshepherds.github.io/EscapeVelocity/post/welcome/</guid>
+      <description>&lt;p&gt;Spicy jalapeno bacon ipsum dolor amet ball tip andouille cupim chuck, tail short loin ground round shankle filet mignon meatball frankfurter shank. Cupim beef ribs leberkas, frankfurter sirloin shank ground round chuck pork belly. Pork loin pork chop shankle ball tip. Pork loin chuck pancetta short loin beef ham andouille brisket porchetta. Jowl brisket hamburger picanha, pig turkey tenderloin pork belly cupim capicola ball tip flank landjaeger corned beef andouille. Ribeye filet mignon turkey pastrami meatball jowl. Pancetta drumstick turkey ground round, short loin kevin sirloin shankle tail capicola.&lt;/p&gt;
+
+&lt;p&gt;Jowl prosciutto salami chicken. Tail chicken tongue jerky flank rump beef cupim burgdoggen. Shank shankle turkey burgdoggen, pork loin cupim kevin. Leberkas tenderloin beef frankfurter, hamburger t-bone pork belly bresaola. Alcatra sirloin ham flank boudin pancetta, doner t-bone bresaola chicken picanha meatball pork belly ball tip porchetta. Tri-tip shank venison bresaola kielbasa jowl pig shoulder boudin rump chicken cow sausage swine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
