@@ -1,0 +1,17 @@
+site_author: Fred Johanns III
+location: "South Windosr, CT"
+avatar: "/img/fred-profile.jpg"
+
+social: {
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   : "derfsplat",
+    facebook  : "",
+    linkedin  : "fredj",
+    behance   : "",
+    dribbble  : "",
+    instagram : "",
+    github    : "derfsplat",
+    gplus     : "",
+}

@@ -1,0 +1,13 @@
+{{ range .Site.Data.authors }}
+<aside class="author">
+  <img class="profile-image" src="{{ .Site.BaseURL }}{{ .avatar }}" alt="{{ .site_author }}" />
+  <p class="name">{{ .Site.Data.l10n.author.by }}
+  <strong>{{ .site_author }}</strong></p>
+  <p class="address">{{ .location }}</p>
+  <p class="link"></p>
+  <ul class="social">
+    {{ partial "social" . }}
+  </ul>
+  <br><br>
+</aside>
+{{ end }}
