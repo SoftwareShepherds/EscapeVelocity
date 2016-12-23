@@ -2,13 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 devs, 1 blog (change this later)</title>
-    <link>https://softwareshepherds.github.io/EscapeVelocity/index.xml</link>
+    <link>https://softwareshepherds.github.io/EscapeVelocity/tags/fred/index.xml</link>
     <description>Recent content on 2 devs, 1 blog (change this later)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017 Software Shepards</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 16:01:40 -0500</lastBuildDate>
-    <atom:link href="https://softwareshepherds.github.io/EscapeVelocity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://softwareshepherds.github.io/EscapeVelocity/tags/fred/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About This Blog</title>
@@ -19,18 +18,6 @@
       <description>&lt;p&gt;We&amp;rsquo;re interested in helping to address a gap in our industry: communication.  Specifically, engaging internal &amp;amp; external customers in productive conversations, soliciting accurate insight into what they want, and being able to accurately, empathetically, and simply communicate back status from our technical teams.  We want to contribute to the technical community ideas, process, and tooling.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;ve worked in and for organizations that feel as if they are throwing money &amp;ldquo;into a black hole&amp;rdquo; and return get back inaccurate, over budget projects.  The customers have given up their time to provide what they consider straight forward requests, have been open and response to questions, management has a schedule and a plan, and the developers are doing some of their best work delivering on features that they believe will make people happy- so &lt;a href=&#34;http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value&#34;&gt;why do so many software projects fail&lt;/a&gt;?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome</title>
-      <link>https://softwareshepherds.github.io/EscapeVelocity/post/welcome/</link>
-      <pubDate>Mon, 28 Nov 2016 17:45:09 -0500</pubDate>
-      
-      <guid>https://softwareshepherds.github.io/EscapeVelocity/post/welcome/</guid>
-      <description>&lt;p&gt;Spicy jalapeno bacon ipsum dolor amet ball tip andouille cupim chuck, tail short loin ground round shankle filet mignon meatball frankfurter shank. Cupim beef ribs leberkas, frankfurter sirloin shank ground round chuck pork belly. Pork loin pork chop shankle ball tip. Pork loin chuck pancetta short loin beef ham andouille brisket porchetta. Jowl brisket hamburger picanha, pig turkey tenderloin pork belly cupim capicola ball tip flank landjaeger corned beef andouille. Ribeye filet mignon turkey pastrami meatball jowl. Pancetta drumstick turkey ground round, short loin kevin sirloin shankle tail capicola.&lt;/p&gt;
-
-&lt;p&gt;Jowl prosciutto salami chicken. Tail chicken tongue jerky flank rump beef cupim burgdoggen. Shank shankle turkey burgdoggen, pork loin cupim kevin. Leberkas tenderloin beef frankfurter, hamburger t-bone pork belly bresaola. Alcatra sirloin ham flank boudin pancetta, doner t-bone bresaola chicken picanha meatball pork belly ball tip porchetta. Tri-tip shank venison bresaola kielbasa jowl pig shoulder boudin rump chicken cow sausage swine.&lt;/p&gt;
 </description>
     </item>
     
