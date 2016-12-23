@@ -4,8 +4,8 @@
 #pull updates from others
 git subtree pull --prefix=public origin gh-pages
 
-# Run hugo. Generated site will be placed in public directory (or omit -t ThemeName if you're not using a theme)
-hugo -t ThemeName
+# Run hugo. Generated site will be placed in public directory
+hugo
 
 # Add everything
 git add -A
