@@ -1,0 +1,13 @@
+/*lightens up the default alpha channel so the lense flares in the earth image aren't washed out*/
+.transparent-layer {
+    background-color: rgba(34, 34, 34, 0.2) !important;
+}
+
+/*add some color to articles :) */
+p > a {
+  color: darkblue;
+}
+
+.profile-image {
+  box-shadow: 0px 0px 7px #a2a2a2;
+}
