@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on 2 devs, 1 blog (change this later)</title>
+    <title>Posts on 2 devs, 1 blog (change this later)</title>
     <link>https://softwareshepherds.github.io/EscapeVelocity/post/index.xml</link>
-    <description>Recent content in Post-rsses on 2 devs, 1 blog (change this later)</description>
+    <description>Recent content in Posts on 2 devs, 1 blog (change this later)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017 Software Shepards</copyright>
