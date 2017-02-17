@@ -11,22 +11,10 @@ We've worked in and for organizations that feel as if they are throwing money "i
 
 Fred
 ====
-Hi, I'm Fred, but you probably already knew that.
 
-Ultimately, I'm a software developer, however as my proverbial beard has grayed, my interests have extended beyond development- first out of necessity, then out of something more interesting.  I discovered that writing code- let alone good code- isn't enough.
+As a manager, I have lead teams recognized as examples of both technical leadership and team dynamics.  The technical magic happens when we leverage solid architecture and delivery practices to produce apps that elicit praise from our users for design and usability.  But we win true advocacy when we can take pride in being helpful and responsive to our users throughout delivery: from concept design to support- and back again.  I’ve achieved success on all these fronts and with multiple teams through the development of both the individual and the team.
 
-Our customers expect us the Right Thing <sup>TM</sup> and that has different meanings to different people.  To our BA and our Devs, it means working with the users on the ground to ensure our idea of what they want is in fact what they want.  To our PM, it doesn't matter it is, as long as it's on time &#9786;.
+As a developer, you do not put yourself through 4 years of linked-lists and data structures, or teach yourself some foreign language an-hour-a-night, if you do not absolutely fawn over this stuff.  I think I do myself and my team a disservice as a manager if I’m not at the top of my game as a developer, and vice-versa: if we’re not organized and structured to continually deliver value, I get frustrated as a developer.
 
-I strive to build things that bring value, but value is subjective and means different things to different people- herein lies one of software's greatest challenges.  We achieve this in my experience in one of two ways.  Either we have many individual users we can A/B test or we have few, specific users and therefore need to work closely to provide a win-win.  That is, even if we build the Right Thing <sup>TM</sup> exactly as requested and we deliver it on time, it won't matter if the client or executive or business unit doesn't get value for the money they've spent.
-
-So how do we do that?
-
-The solution, I believe, lies at the intersection of People, Process, and Technology, but it's not enough to simply execute on this.  We buy-in, we need genuine intrinsic motivation, we need to [let people have our own way](http://www.goodreads.com/quotes/53035-diplomacy-is-the-art-of-letting-someone-else-have-your).  It turns out writing software is straightforward- not easy, but straightforward: machines are predictable beings- difficult and picky, but predictable.  Humans require more.
-
-Take all this and add to it the fact that software is pure thought-stuff running in a virtual environment.  If I ask a carpenter to build a custom cabinet, I can see the process, I can learn a lot about how well its crafted just by looking at it.  With software, how do we do that?  I think that's where there's an unfilled gap in our industry that posses some really interesting challenges.
-
-IT in general and, depending on your industry, software development specifically, is all too often seen as a cost center.
-
-I want to change that.
-
+It’s damn fun to create. And it’s even more fun when requirements, process, and success are clearly defined: this is my objective.
 
