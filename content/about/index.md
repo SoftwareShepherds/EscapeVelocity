@@ -18,3 +18,9 @@ As a developer, you do not put yourself through 4 years of linked-lists and data
 
 It’s damn fun to create. And it’s even more fun when requirements, process, and success are clearly defined: this is my objective.
 
+Ken
+===
+
+I am passionate about delivering software and enjoy the challenges of mentoring and leading people.  When we have the right team members in the right roles, a shared purpose, and an appetite for taking risks and adapting to change, we deliver the most value.  Effective teams outperform individually talented people and have a more fulfilling work experience.
+
+So why am I here?  Probably for the same reasons you are reading this.  I am looking to be better at what I do and highlight what has worked for me and what hasn’t.  I want to improve how I communicate my ideas and this seemed like a great way to get exposure to a wider audience and hopefully help people.
