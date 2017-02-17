@@ -1,6 +1,6 @@
 +++
 date = "2016-12-22T16:01:40-05:00"
-title = "About This Blog"
+title = "About This Blog and stuff"
 tags = ["about","ken","fred"]
 
 +++
