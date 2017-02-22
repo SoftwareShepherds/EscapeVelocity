@@ -1,8 +1,8 @@
 +++
 date = "2016-12-22T16:01:40-05:00"
-title = "About This Blog and stuff"
+title = "About This Blog"
 tags = ["about","ken","fred"]
-
+type = "page"
 +++
 
 We're interested in helping to address a gap in our industry: communication.  Specifically, engaging internal & external customers in productive conversations, soliciting accurate insight into what they want, and being able to accurately, empathetically, and simply communicate back status from our technical teams.  We want to contribute to the technical community ideas, process, and tooling.
