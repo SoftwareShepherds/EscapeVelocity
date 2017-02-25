@@ -1,0 +1,249 @@
+<!doctype html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>2 devs, 1 blog (change this later)</title>
+        <meta name="author">
+        <meta name="description" content="To Develop Humans">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="generator" content="Hugo 0.30.2" />
+        <link href="https://softwareshepherds.github.io/EscapeVelocity/post/index.xml" rel="alternate" type="application/rss+xml" title="2 devs, 1 blog (change this later)" />
+        <link href="https://softwareshepherds.github.io/EscapeVelocity/post/index.xml" rel="feed" type="application/rss+xml" title="2 devs, 1 blog (change this later)" />
+        <link href='//fonts.googleapis.com/css?family=Roboto:400,300,700|Noto+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://softwareshepherds.github.io/EscapeVelocity/css/styles.css">
+        <link rel="icon" href="https://softwareshepherds.github.io/EscapeVelocity/favicon.ico">
+        <link rel="apple-touch-icon" href="https://softwareshepherds.github.io/EscapeVelocity/apple-touch-icon.png" />
+        <link rel="stylesheet" href="https://softwareshepherds.github.io/EscapeVelocity/css/highlightjs/monokai.css">
+        <script src="https://softwareshepherds.github.io/EscapeVelocity/js/vendor/modernizr-2.8.0.min.js"></script>
+        
+        <link rel="stylesheet" href="https://softwareshepherds.github.io/EscapeVelocity/css/custom-styles.css">
+        
+        <style>
+        .site-header h2 .logo {
+        background: url(https://softwareshepherds.github.io/EscapeVelocity/img/earth-space-header.jpg) no-repeat 0 0;
+        }
+        @media (min--moz-device-pixel-ratio: 1.3), (-o-min-device-pixel-ratio: 2.6 / 2), (-webkit-min-device-pixel-ratio: 1.3), (min-device-pixel-ratio: 1.3), (min-resolution: 1.3dppx) {
+          .site-header h2 .logo {
+            background-image: url(https://softwareshepherds.github.io/EscapeVelocity/img/earth-space-header.jpg);
+        }}
+       .site-header {
+         background: #2a373d url(https://softwareshepherds.github.io/EscapeVelocity/img/earth-space-header.jpg) no-repeat center center;
+         z-index: -1;
+        }
+        </style>
+    </head>
+    <body>
+        
+        <header class="site-header">
+          <div class="transparent-layer">
+              <h2>Escape Velocity</h2>
+          </div>
+        </header>
+
+
+<div class="container clearfix">
+    <main role="main" class="content">
+        <article class="post">
+            <a class="btn home" href="https://softwareshepherds.github.io/EscapeVelocity/" title="Back to home">&laquo; Back to home</a>
+            
+<h1><a href="https://softwareshepherds.github.io/EscapeVelocity/post/operational-clarity/" title="Operational Clarity: Decoupling Status &amp; People">Operational Clarity: Decoupling Status &amp; People</a></h1>
+
+<footer class="post-info">Posted on <span class="post-meta"><time datetime="2017.11.12">2017.11.12</time>
+
+    
+
+</span>
+</footer>
+
+            
+
+<p><img src="https://softwareshepherds.github.io/EscapeVelocity/img/image_7.png" alt="image alt text" /></p>
+
+<p>With each opportunity I’ve had to lead development teams, I’ve come across a similar challenge.  I once heard it described as &ldquo;spending money on R&amp;D feels like throwing money into a black hole where every so often something pops out… randomly.&rdquo;  This is both frustrating and motivating.  As a delivery team dedicating more hours to building software than to our families on the average day, it’s always difficult to hear.  On the other hand, it’s caused me to wonder: why is this such a common problem?  What is it about software that makes it so difficult to have a conversation that satisfies all parties about what’s involved in building systems?</p>
+
+<h2 id="project-status-is-not-pm-status">Project Status is not PM Status</h2>
+
+<p>Culturally, we need to make clear that we own delivery.  Our PM is a messenger: they liaise on our behalf with stakeholders, keep us honest with commitments, and provide documentation for governance (if that’s your industry’s bag).  They do not control delivery.  We do.  If that’s not already clear, stand up and be counted.  Make yourself accountable to your stakeholders for delivery.  Aside from being the right thing to do, being accountable for delivery means we are also responsible for shaping how we report on it and that’s a conversation we want to have.</p>
+
+<p>From here, there are many ways we can provide more operational clarity and each will depend on your team’s unique situation.</p>
+
+<h2 id="clarity-by-delivery-method">Clarity By Delivery Method</h2>
+
+<h3 id="waterfall">Waterfall</h3>
+
+<p>My best advice in a Waterfall world is to begin shifting mindsets to a more integrated, agile delivery model.  By integrated, I mean devs working together with BA’s and Testers on a single delivery team.  No more silos.</p>
+
+<p>Start by <a href="https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425">mapping your value stream</a>.  This is a great exercise in helping to identify bottlenecks and waste.  If we’re continuing to invest in uncomfortable transparency, we give ourselves the opportunity to have honest conversations about how silos, handoffs, and large batches are having a negative impact on shared goals.</p>
+
+<p>I have yet to find a delivery team who’s referred to Waterfall as efficient.  That said, if you have examples, add them to the comments below!  I’d love to hear about success stories in this area; I love differing, well thought-out points of view.  I think it’s a great way to learn.</p>
+
+<p>As far as I know, though, the repeated failures of these types of siloed environments are exactly what’s lead to the advent of the other two movements below.</p>
+
+<p><img src="https://softwareshepherds.github.io/EscapeVelocity/img/image_8.png" alt="image alt text" /></p>
+
+<p>Advice for delivery managers delivering down a waterfall.</p>
+
+<h3 id="scrum">Scrum</h3>
+
+<p>Jira calls this a &ldquo;Version Report&rdquo; but most call it a Burn Up.</p>
+
+<p><img src="https://softwareshepherds.github.io/EscapeVelocity/img/image_9.png" alt="image alt text" /></p>
+
+<p>Be warned: the second you show a graph or a chart or a report with a date on it, <strong>that date will be remembered</strong>.  This is especially true if later reports show a later date!  The important thing to highlight with this chart, like most, is <em>trends</em>.  Are we trending towards completion or do we have scope creep?  Are we going faster as we go or slower?</p>
+
+<p>Scrum is a great first step for time-bound, or as I like to call them, &ldquo;time-stuck&rdquo; PMs and stakeholders.  This gives them the “comfort” of a “due date” but in a much more agile environment, giving us the ability to mature key influences on efficiency: <a href="https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf">estimating in points</a>, shaping a single delivery team (BA’s + Devs + Testers + PO/PM), and working on our continuous delivery pipeline.  Align the team, lower the coordination cost of release, and raise the bar of quality.</p>
+
+<p>Here’s the journey I went on more than once:</p>
+
+<p>The scrum team gets a handle on their velocity, sprints are getting more predictable, delivery tooling is improving, things are good.  But cracks start to become visible… we tend to move unplanned work into the sprint often as production issues come in or priorities change.  We move other work out of the sprint, but we generally find ourselves unable to commit to what’s been loaded at the start of that 2 week block.</p>
+
+<p>Working with the testers in the same sprint in the spirit of &ldquo;definition of done&rdquo; is getting challenging (it’s not done until it’s accepted after all).  We either need to have devs stop working before the sprint ends to give the testers time to test (and what if they find something?) or accept that we’ll never be “done” with everything we’ve “committed” to by the end of the sprint.</p>
+
+<p>So we begin to take a step back and ask ourselves: what value is the sprint/iteration timebox adding for us when 1- work continually flows in and 2- we don’t want to slow development for the sake of ensuring &ldquo;doneness&rdquo;?</p>
+
+<p>//Ken points out that we haven’t lost all of our Scrum routes and that having some regular ceremonies prepares the work and helps the team see the bigger picture (e.g. Planning meeting) - in order to keep continuous flow for devs, you also have to make sure the work is &ldquo;ready&rdquo; which does require regular (i.e. scrum-esq) planning</p>
+
+<h3 id="kanban-lean">Kanban/Lean</h3>
+
+<p>Enter pull-based delivery methods.  Lean, Kanban, heck even &ldquo;agile&rdquo; - as no one really knows what this word means- usually mean a pull-based form of delivery.  The focus in a Kanban environment is flow efficiency: getting the work from the backlog to the customer as fast as we can.</p>
+
+<p>And ultimately, that’s all that matters.  It’s not actuals; it’s not timesheets.</p>
+
+<p>Having a dev take a best guess at how long it took them to write the 1’s and 0’s to create something does not answer how long it took analysis to deliver requirements or how long it took to get the work accepted by test, let alone how long it at in the backlog or on the shelf done and left to waste as inventory or how many times it &ldquo;churned&rdquo; back upstream bc we failed to deliver accurately.</p>
+
+<p>The key to visualizing our progress here is the Cumulative Flow diagram.</p>
+
+<p><img src="https://softwareshepherds.github.io/EscapeVelocity/img/image_10.png" alt="image alt text" /></p>
+
+<p>There’s 10,487 posts just this week on Kanban, Lean, and reporting so I won’t get into too much detail, but if any of these words above don’t look familiar, google them and start there.  What we’re interested in here is shrinking Cycle (&ldquo;how long does it take us to build ‘thing’&rdquo;) &amp; Lead (“how long does it take our customer to get ‘thing’ after they ask for it”) times.</p>
+
+<p><a href="https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime">Here’s </a>a great post from Soundcloud’s CTO, Artem Fishman, discussing practical applications of this type of reporting.  He created an information radiator with simple Green/Amber/Red statuses for a few key metrics.  Some of my favorites: WIP / Developer, Average Age of Pull Requests, and of course Cycle/Lead times.</p>
+
+<p><strong>//TODO: insert control chart and talk about the journey I took Sue on around how WIP is the root of all inefficiency evil</strong></p>
+
+<p>Our overarching goal here is to shrink Work In Progress.  From this, we can glean more efficiency leading to smaller Cycle, and eventually Lead, times.  WIP (most often from shifting priorities) is an efficiency killer.  I’d start here and the rest be damned; working on WIP will naturally lead you to all other aspects of improving flow.</p>
+
+<p>Here’s a simple illustration from Artem’s post above:</p>
+
+<blockquote>
+<p>Decreasing the number of products in WIP can decrease lead and cycle time. To illustrate, imagine we have two tasks each of which takes four days and can be shared between two engineers with no overhead. There are two schedules for this work shown below: either each engineer takes one task or they pair on the first, then the second.</p>
+
+<p><img src="https://softwareshepherds.github.io/EscapeVelocity/img/image_11.png" alt="image alt text" />
+<em>Scheduling two tasks for two engineers</em></p>
+
+<p>In Schedule 1, each engineer takes a single task, both products ship in four days. In Schedule 2, the first task is ready in two days and the second at four days. We’ve shipped the first product two days earlier without adding any work. Pairing adds some overhead, but getting information from shipping a product sooner is often worth it. These same principles apply to the planning phases of product development.</p>
+</blockquote>
+
+<p>Lower your work in progress.  Your devs will thank you, your customers will- ultimately- thank-you.  But I’ve found it difficult at first to get support for these types of initiatives in a world focused on dates, individuals, and RAGs without {{link to uncomfortable transparency post}} uncomfortable transparency, so continue to invest.  We need Step 1, shared goals and a supportive customer who feels heard, before we can move to Step 2.  Continuing to deposit in Step 1 allows withdrawals from Step 2.</p>
+
+            <ul class="share-buttons">
+    <li>Share this article:</li>
+    <li>
+        <a class="icon-facebook-squared" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsoftwareshepherds.github.io%2fEscapeVelocity%2fpost%2foperational-clarity%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"></a>
+    </li>
+    <li>
+        <a class="icon-twitter" href="https://twitter.com/share?text=Operational%20Clarity%3a%20Decoupling%20Status%20%26%20People&amp;url=https%3a%2f%2fsoftwareshepherds.github.io%2fEscapeVelocity%2fpost%2foperational-clarity%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Tweet this article"></a>
+    </li>
+    <li>
+        <a class="icon-gplus" href="https://plus.google.com/share?url=https%3a%2f%2fsoftwareshepherds.github.io%2fEscapeVelocity%2fpost%2foperational-clarity%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google&#43;"></a>
+    </li>
+    <li>
+        <a class="icon-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fsoftwareshepherds.github.io%2fEscapeVelocity%2fpost%2foperational-clarity%2f&title=Operational%20Clarity%3a%20Decoupling%20Status%20%26%20People" onclick="window.open(this.href, 'linkedin-share', 'width=600,height=494');return false;" title="Share on Linkedin"></a>
+    </li>
+</ul>
+
+        </article>
+        
+    </main>
+    
+<aside class="author">
+  <a href="https://softwareshepherds.github.io/EscapeVelocity/about/">
+    <img class="profile-image" src="https://softwareshepherds.github.io/EscapeVelocity/img/fred-profile.jpg" alt="Fred Johanns III" />
+  </a>
+  <p class="name">
+  <strong>Fred Johanns III</strong></p>
+  <p class="address">South Windosr, CT</p>
+  <p class="link"></p>
+  <ul class="social">
+    
+<li><a href="//twitter.com/derfsplat" class="icon-twitter" target="_blank" title="Twitter"></a></li>
+
+
+
+
+
+<li><a href="//linkedin.com/in/fredj" class="icon-linkedin" target="_blank" title="Linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="//github.com/derfsplat" class="icon-github" target="_blank" title="Github"></a></li>
+
+
+
+
+<li><a href="post/index.xml" class="icon-rss" target="_blank" title="RSS"></a></li>
+
+  </ul>
+  <br><br>
+</aside>
+
+<aside class="author">
+  <a href="https://softwareshepherds.github.io/EscapeVelocity/about/">
+    <img class="profile-image" src="https://softwareshepherds.github.io/EscapeVelocity/img/ken-profile.jpg" alt="Ken Luuuuuurtsema" />
+  </a>
+  <p class="name">
+  <strong>Ken Luuuuuurtsema</strong></p>
+  <p class="address">East Hartford, CT</p>
+  <p class="link"></p>
+  <ul class="social">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="post/index.xml" class="icon-rss" target="_blank" title="RSS"></a></li>
+
+  </ul>
+  <br><br>
+</aside>
+
+
+</div>
+
+<footer class="main-footer">
+  <div class="container clearfix">
+        <a class="icon-rss" href="https://softwareshepherds.github.io/EscapeVelocity/post/index.xml" title="RSS"></a>
+        <p>&copy; 2017 &middot; 2017 Software Shepards</p>
+  </div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.8.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script>window.jQuery || document.write('<script src="https:\/\/softwareshepherds.github.io\/EscapeVelocity\/js\/vendor\/jquery-1.11.0.min.js"><\/script>')</script>
+<script src="https://softwareshepherds.github.io/EscapeVelocity/js/plugins.js"></script>
+
+
+
+
+</body>
+</html>
+
