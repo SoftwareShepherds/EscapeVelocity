@@ -18,7 +18,7 @@
       <guid>https://softwareshepherds.github.io/EscapeVelocity/post/my-first-day/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/EscapeVelocity/img/scrubs-my-first-day.jpg&#34; alt=&#34;My First Day, Scrubs&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://softwareshepherds.github.io/EscapeVelocity/img/scrubs-my-first-day.jpg&#34; alt=&#34;My First Day, Scrubs&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As a dev and then as a manager, I grew up in a &amp;ldquo;startup environment&amp;rdquo;.  It was chaotic at times, but we were a team and we were in it together.  I was fortunate to lead this team but at the time, &amp;ldquo;lead&amp;rdquo; felt overstated.  I would nudge gently at points, define simple structures so we could track work and status, but mostly we had lots of high performing individuals and I just got out of their way.  Fast forward a couple of years and I had moved on.  I had taken a job as a developer on a small team at an insurance company and, within a year, was presented with an opportunity to lead the team and double its size.&lt;/p&gt;
 
@@ -30,7 +30,7 @@
 
 &lt;p&gt;I had come to a pivotal point in my career that wouldn&amp;rsquo;t become obvious until years later.  In this moment, as an unknown quantity charged with leading a team in a &amp;ldquo;traditional&amp;rdquo; company, I decided to stubbornly (and maybe selfishly) stick to what I knew: how we did things at Startup.  And while I respected that people got value out of a lot of the existing processes and paperwork, I wanted something different.  I wanted to create an environment- a bubble- in Insurance Corp where my team could thrive.&lt;/p&gt;
 
-&lt;p&gt;You can too.  Practical leadership is not about grand speeches or having the authority to take a single action that acutely changes course; it&amp;rsquo;s in the banality of every day.  No one conversation or meeting is make or break, but daily we come to small forks in the road, and in aggregate the directions we pick can have a profound impact.  In what follows I&amp;rsquo;ll share examples and concrete, practical advice for forking.&lt;/p&gt;
+&lt;p&gt;You can too.  Practical leadership is not about grand speeches or having the authority to take a single action that acutely changes course; it&amp;rsquo;s in the banality of every day.  No one conversation or meeting is make or break, but daily we come to small forks in the road, and in aggregate the directions we pick can have a profound impact.  In what follows I&amp;rsquo;ll share personal examples and concrete, practical advice for navigating forks.&lt;/p&gt;
 
 &lt;p&gt;So there I was, leader-by-default, and I figured what do I have to lose?&lt;/p&gt;
 
@@ -58,17 +58,16 @@
 
 &lt;p&gt;Well, that turned out to be a mistake.  Since she was now titled a tester, I was being pressured to have her report to our Test Manager.  And since I was the Dev Manager, that just didn&amp;rsquo;t make sense to some at Insurance Corp.  This would be bad for our team for several reasons.  We had resource &amp;ldquo;pools&amp;rdquo; (BA&amp;rsquo;s, Devs, Testers, etc) and they would be moved by PM&amp;rsquo;s from project to project as necessary.  This meant Sarah wouldn&amp;rsquo;t be dedicated to our team.  It also meant I wouldn&amp;rsquo;t have influence over her career development- her training, whether she could spend time with developers, giving her time to write automated tests (a great bridge from test to dev!).  Having a tester embedded with a dev team seemed so obvious to me, but looking around at my manager peers, I was left feeling like “to see what is in front of one’s nose needs a constant struggle.”&lt;sup&gt;&lt;a href=&#34;http://www.goodreads.com/quotes/20283-to-see-what-is-in-front-of-one-s-nose-needs&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Luckily, I had nothing left to lose and &lt;em&gt;I&lt;/em&gt; had a manager who had the right combination of desire to empower his people and lack of knowledge on how to structure or run a dev team.  We talked, and either my points had some measure of rationality or I had enough political capital as lead-as-default.  Either way, we got to keep Sarah on the team.  An obvious win-win, but without the effort in shaping the environment, we&amp;rsquo;d be worse off as a team.&lt;br /&gt;
-&amp;rsquo;{could be a crucial convo link here}&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Luckily, I had little to lose and &lt;em&gt;I&lt;/em&gt; had a manager who had the right combination of desire to empower his people and lack of knowledge on how to structure or run a dev team.  We talked, and either my points had some measure of rationality or I had enough political capital as lead-as-default.  Either way, we got to keep Sarah on the team.  An obvious win-win, but without the effort in shaping the environment, we&amp;rsquo;d be worse off as a team.&lt;br /&gt;
+&lt;code&gt;{could be a crucial convo link here}&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Finally, possibly my most memorable conversation with a PM ever.  Fast forward a couple of weeks, we have a prospective dev hire, Sarah is transitioning on to the team, and it&amp;rsquo;s time for my first catchup with our PM, Mary.  Mary had a list of questions that I had expected of the &amp;ldquo;what&amp;rsquo;s your team working on now/next?&amp;rdquo; variety, but there was one that threw me for a loop:&lt;br /&gt;
-&amp;rsquo;{what format do you expect your requirements in was other question- good for autonomy point}&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Finally, possibly my most memorable conversation with a PM ever.  Fast forward a couple of weeks, we have a prospective dev hire, Sarah is transitioning on to the team, and it&amp;rsquo;s time for my first catchup with our PM, Mary.  Mary had a list of questions that I had expected of the &amp;ldquo;what&amp;rsquo;s your team working on now/next?&amp;rdquo; variety, but there was one that threw me for a loop: &lt;code&gt;{what format do you expect your requirements in was other question good for autonomy point}&lt;/code&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;What work have you assigned Sarah?  (And if it&amp;rsquo;s none, she would assign some or move Sarah to the aforementioned test team)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I just remember panicking.  The expectation being set here was that if I was a competent manager, I should be able to predict her workload, assign it, and accurately allocate her time to keep her busy for the length of our iteration- basically the environment Sarah had just left.  I took a deep breath and in my most diplomatic voice simply stated &amp;ldquo;well I think that&amp;rsquo;s hard to predict since she&amp;rsquo;ll be accepting work as we complete it.  But if we organize ourselves so that our completed dev work is her todo list, we&amp;rsquo;ll constantly feed her work.&amp;rdquo;  If she had down time, well she wanted to grow into a development role; I would expect her to use the opportunity for watching a Pluralsight video, or walking through a tutorial, or pairing with a dev.  I was met with a deer-in-the-headlights look.  I felt as if I had said gravity didn&amp;rsquo;t work any more.  She politely nodded and I think out of nothing else than the sheer fact that Sarah &amp;ldquo;reported to me&amp;rdquo;, she was content to drop the issue.&lt;/p&gt;
+&lt;p&gt;I just remember panicking.  The expectation being set here was that if I was a competent manager, I should be able to predict her workload, assign it, and accurately allocate her time to keep her busy for the length of our iteration- basically the environment Sarah had just left.  I took a deep breath and in my most diplomatic voice simply stated &amp;ldquo;well I think that&amp;rsquo;s hard to predict since she&amp;rsquo;ll be testing &amp;amp; accepting work as we complete it.  But if we organize ourselves so that our completed dev work is her todo list, we&amp;rsquo;ll constantly feed her work.&amp;rdquo;  I explained if she had down time, well she wanted to grow into a development role; I would expect her to use the opportunity for watching a Pluralsight video, or walking through a tutorial, or pairing with a dev.  I was met with a deer-in-the-headlights look.  I felt as if I had said gravity didn&amp;rsquo;t work any more.  She politely nodded and I think out of nothing else than the sheer fact that Sarah &amp;ldquo;reported to me&amp;rdquo;, she was content to drop the issue.&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;{this might be an overall conclusion}&lt;/code&gt;&lt;br /&gt;
 Leaders shape their environment.  They work to put people in roles that let them flourish, they give them autonomy, mastery, and purpose.  They move authority to the people with the information to make the best decision.  And, in my opinion, they are not afraid to disrupt the system from within by gently nudging influencers over a series of conversations in a tactic I like to refer to as Management Chess.  It was radical that I had a tester &amp;ldquo;reporting&amp;rdquo; to me, but because I had forged positive relationships with the people I would need to support this move, we started building what others would later recognize to be a high performing team.&lt;/p&gt;
@@ -82,7 +81,22 @@ Leaders shape their environment.  They work to put people in roles that let them
 &lt;li&gt;Leaders make people think&lt;/li&gt;
 &lt;li&gt;Leaders push authority to information&lt;/li&gt;
 &lt;li&gt;Leaders make people feel safe&lt;/li&gt;
+&lt;li&gt;Where I&amp;rsquo;m still failing as a leader&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PM-created islands.&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work farmed out to individuals&lt;/li&gt;
+&lt;li&gt;Reduces autonomy. Team feels frustration in retros&lt;/li&gt;
+&lt;li&gt;Reduces ownership. Lack of attention on standup call&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;if you want engagement, self-direction works much better &lt;a href=&#34;http://www.ted.com/talks/dan_pink_on_motivation#t-31880&#34;&gt;http://www.ted.com/talks/dan_pink_on_motivation#t-31880&lt;/a&gt; @13m&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@ date = "2017-02-23T23:46:11-05:00"
 
 +++
 
-![My First Day, Scrubs](http://localhost:1313/EscapeVelocity/img/scrubs-my-first-day.jpg)
+![My First Day, Scrubs](/img/scrubs-my-first-day.jpg)
 
 As a dev and then as a manager, I grew up in a "startup environment".  It was chaotic at times, but we were a team and we were in it together.  I was fortunate to lead this team but at the time, "lead" felt overstated.  I would nudge gently at points, define simple structures so we could track work and status, but mostly we had lots of high performing individuals and I just got out of their way.  Fast forward a couple of years and I had moved on.  I had taken a job as a developer on a small team at an insurance company and, within a year, was presented with an opportunity to lead the team and double its size.
 
@@ -17,7 +17,7 @@ How could I ever have influence here?  And more importantly, how would I ever be
 
 I had come to a pivotal point in my career that wouldn't become obvious until years later.  In this moment, as an unknown quantity charged with leading a team in a "traditional" company, I decided to stubbornly (and maybe selfishly) stick to what I knew: how we did things at Startup.  And while I respected that people got value out of a lot of the existing processes and paperwork, I wanted something different.  I wanted to create an environment- a bubble- in Insurance Corp where my team could thrive.
 
-You can too.  Practical leadership is not about grand speeches or having the authority to take a single action that acutely changes course; it's in the banality of every day.  No one conversation or meeting is make or break, but daily we come to small forks in the road, and in aggregate the directions we pick can have a profound impact.  In what follows I'll share examples and concrete, practical advice for forking.
+You can too.  Practical leadership is not about grand speeches or having the authority to take a single action that acutely changes course; it's in the banality of every day.  No one conversation or meeting is make or break, but daily we come to small forks in the road, and in aggregate the directions we pick can have a profound impact.  In what follows I'll share personal examples and concrete, practical advice for navigating forks.
 
 So there I was, leader-by-default, and I figured what do I have to lose?
 
@@ -45,15 +45,14 @@ And so I had my first hire.  She would start off in a testing role so we could l
 
 Well, that turned out to be a mistake.  Since she was now titled a tester, I was being pressured to have her report to our Test Manager.  And since I was the Dev Manager, that just didn't make sense to some at Insurance Corp.  This would be bad for our team for several reasons.  We had resource "pools" (BA's, Devs, Testers, etc) and they would be moved by PM's from project to project as necessary.  This meant Sarah wouldn't be dedicated to our team.  It also meant I wouldn't have influence over her career development- her training, whether she could spend time with developers, giving her time to write automated tests (a great bridge from test to dev!).  Having a tester embedded with a dev team seemed so obvious to me, but looking around at my manager peers, I was left feeling like “to see what is in front of one’s nose needs a constant struggle.”<sup>[3](http://www.goodreads.com/quotes/20283-to-see-what-is-in-front-of-one-s-nose-needs)</sup>
 
-Luckily, I had nothing left to lose and *I* had a manager who had the right combination of desire to empower his people and lack of knowledge on how to structure or run a dev team.  We talked, and either my points had some measure of rationality or I had enough political capital as lead-as-default.  Either way, we got to keep Sarah on the team.  An obvious win-win, but without the effort in shaping the environment, we'd be worse off as a team.  
-'{could be a crucial convo link here}'
+Luckily, I had little to lose and *I* had a manager who had the right combination of desire to empower his people and lack of knowledge on how to structure or run a dev team.  We talked, and either my points had some measure of rationality or I had enough political capital as lead-as-default.  Either way, we got to keep Sarah on the team.  An obvious win-win, but without the effort in shaping the environment, we'd be worse off as a team.  
+`{could be a crucial convo link here}`
 
-Finally, possibly my most memorable conversation with a PM ever.  Fast forward a couple of weeks, we have a prospective dev hire, Sarah is transitioning on to the team, and it's time for my first catchup with our PM, Mary.  Mary had a list of questions that I had expected of the "what's your team working on now/next?" variety, but there was one that threw me for a loop:  
-'{what format do you expect your requirements in was other question- good for autonomy point}'
+Finally, possibly my most memorable conversation with a PM ever.  Fast forward a couple of weeks, we have a prospective dev hire, Sarah is transitioning on to the team, and it's time for my first catchup with our PM, Mary.  Mary had a list of questions that I had expected of the "what's your team working on now/next?" variety, but there was one that threw me for a loop: `{what format do you expect your requirements in was other question good for autonomy point}`
 
 > What work have you assigned Sarah?  (And if it's none, she would assign some or move Sarah to the aforementioned test team)
 
-I just remember panicking.  The expectation being set here was that if I was a competent manager, I should be able to predict her workload, assign it, and accurately allocate her time to keep her busy for the length of our iteration- basically the environment Sarah had just left.  I took a deep breath and in my most diplomatic voice simply stated "well I think that's hard to predict since she'll be accepting work as we complete it.  But if we organize ourselves so that our completed dev work is her todo list, we'll constantly feed her work."  If she had down time, well she wanted to grow into a development role; I would expect her to use the opportunity for watching a Pluralsight video, or walking through a tutorial, or pairing with a dev.  I was met with a deer-in-the-headlights look.  I felt as if I had said gravity didn't work any more.  She politely nodded and I think out of nothing else than the sheer fact that Sarah "reported to me", she was content to drop the issue.
+I just remember panicking.  The expectation being set here was that if I was a competent manager, I should be able to predict her workload, assign it, and accurately allocate her time to keep her busy for the length of our iteration- basically the environment Sarah had just left.  I took a deep breath and in my most diplomatic voice simply stated "well I think that's hard to predict since she'll be testing & accepting work as we complete it.  But if we organize ourselves so that our completed dev work is her todo list, we'll constantly feed her work."  I explained if she had down time, well she wanted to grow into a development role; I would expect her to use the opportunity for watching a Pluralsight video, or walking through a tutorial, or pairing with a dev.  I was met with a deer-in-the-headlights look.  I felt as if I had said gravity didn't work any more.  She politely nodded and I think out of nothing else than the sheer fact that Sarah "reported to me", she was content to drop the issue.
 
 `{this might be an overall conclusion}`  
 Leaders shape their environment.  They work to put people in roles that let them flourish, they give them autonomy, mastery, and purpose.  They move authority to the people with the information to make the best decision.  And, in my opinion, they are not afraid to disrupt the system from within by gently nudging influencers over a series of conversations in a tactic I like to refer to as Management Chess.  It was radical that I had a tester "reporting" to me, but because I had forged positive relationships with the people I would need to support this move, we started building what others would later recognize to be a high performing team.
@@ -68,3 +67,11 @@ sections:
 1. Leaders make people think
 1. Leaders push authority to information
 1. Leaders make people feel safe
+1. Where I'm still failing as a leader
+
+- PM-created islands.  
+  - Work farmed out to individuals
+  - Reduces autonomy. Team feels frustration in retros
+  - Reduces ownership. Lack of attention on standup call  
+      - if you want engagement, self-direction works much better http://www.ted.com/talks/dan_pink_on_motivation#t-31880 @13m
+
