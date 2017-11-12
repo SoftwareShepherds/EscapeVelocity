@@ -17,7 +17,7 @@ I strive to build things that bring value, but value is subjective and means dif
 
 So how do we do that?
 
-The solution, I believe, lies at the intersection of People, Process, and Technology, but it's not enough to simply execute on this.  We buy-in, we need genuine intrinsic motivation, we need to [let people have our own way](http://www.goodreads.com/quotes/53035-diplomacy-is-the-art-of-letting-someone-else-have-your).  It turns out writing software is straightforward- not easy, but straightforward: machines are predictable beings- difficult and picky, but predictable.  Humans require more.
+The solution, I believe, lies at the intersection of People, Process, and Technology, but it's not enough to simply execute on this.  We need buy-in, we need genuine intrinsic motivation, we need to [let people have our own way](http://www.goodreads.com/quotes/53035-diplomacy-is-the-art-of-letting-someone-else-have-your).  It turns out writing software is straightforward- not easy, but straightforward: machines are predictable beings- difficult and picky, but predictable.  Humans require more.
 
 Take all this and add to it the fact that software is pure thought-stuff running in a virtual environment.  If I ask a carpenter to build a custom cabinet, I can see the process, I can learn a lot about how well its crafted just by looking at it.  With software, how do we do that?  I think that's where there's an unfilled gap in our industry that posses some really interesting challenges.
 
