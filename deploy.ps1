@@ -2,7 +2,7 @@
 #ASSUMES ALL CHANGES ON MASTER ARE PUSHED
 
 #pull updates from others
-git subtree pull --prefix=public origin gh-pages
+#git subtree pull --prefix=public origin gh-pages
 
 # Run hugo. Generated site will be placed in public directory
 hugo
