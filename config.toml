@@ -24,7 +24,7 @@ theme = "hugo-minimalist-theme"
     custom_css = ['css/custom-styles.css']
 
     # Enable gogle analytics by entering your tracking code
-    google_analytics = ""
+    google_analytics = "UA-109597824-1"
 
 #social params are in /data/authors
 #social layout overriden in /layouts/partials/social.html
