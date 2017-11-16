@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 devs, 1 blog (change this later)</title>
-    <link>https://softwareshepherds.github.io/EscapeVelocity/</link>
+    <link>https://teamleadershipit.github.io/EscapeVelocity/</link>
     <description>Recent content on 2 devs, 1 blog (change this later)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017 Software Shepards</copyright>
     <lastBuildDate>Sun, 12 Nov 2017 18:51:51 -0500</lastBuildDate>
     
-	<atom:link href="https://softwareshepherds.github.io/EscapeVelocity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://teamleadershipit.github.io/EscapeVelocity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Operational Clarity: Decoupling Status &amp; People</title>
-      <link>https://softwareshepherds.github.io/EscapeVelocity/post/operational-clarity/</link>
+      <link>https://teamleadershipit.github.io/EscapeVelocity/post/operational-clarity/</link>
       <pubDate>Sun, 12 Nov 2017 18:51:51 -0500</pubDate>
       
-      <guid>https://softwareshepherds.github.io/EscapeVelocity/post/operational-clarity/</guid>
+      <guid>https://teamleadershipit.github.io/EscapeVelocity/post/operational-clarity/</guid>
       <description>With each opportunity I’ve had to lead development teams, I’ve come across a similar challenge. I once heard it described as &amp;ldquo;spending money on R&amp;amp;D feels like throwing money into a black hole where every so often something pops out… randomly.&amp;rdquo; This is both frustrating and motivating. As a delivery team dedicating more hours to building software than to our families on the average day, it’s always difficult to hear.</description>
     </item>
     
     <item>
       <title>Great Leaders Don’t Sell Watermelons</title>
-      <link>https://softwareshepherds.github.io/EscapeVelocity/post/great-leaders-dont-sell-watermelons/</link>
+      <link>https://teamleadershipit.github.io/EscapeVelocity/post/great-leaders-dont-sell-watermelons/</link>
       <pubDate>Sun, 12 Nov 2017 18:28:13 -0500</pubDate>
       
-      <guid>https://softwareshepherds.github.io/EscapeVelocity/post/great-leaders-dont-sell-watermelons/</guid>
+      <guid>https://teamleadershipit.github.io/EscapeVelocity/post/great-leaders-dont-sell-watermelons/</guid>
       <description>Does this sound familiar… you’re trying to ramp up on a new project or release but some of the resources you were counting on aren’t available yet, another team or tool you depend on won’t deliver what you need or become available for another month, or maybe [third reason for delay]. However, we made an honest effort at providing our customer a delivery date, so through these delays and unexpected challenges, project management continues to report your &amp;ldquo;RAG&amp;rdquo; status is green - i.</description>
     </item>
     
     <item>
       <title>leadership is counter intuitive</title>
-      <link>https://softwareshepherds.github.io/EscapeVelocity/post/my-first-day/</link>
+      <link>https://teamleadershipit.github.io/EscapeVelocity/post/my-first-day/</link>
       <pubDate>Thu, 23 Feb 2017 23:46:11 -0500</pubDate>
       
-      <guid>https://softwareshepherds.github.io/EscapeVelocity/post/my-first-day/</guid>
+      <guid>https://teamleadershipit.github.io/EscapeVelocity/post/my-first-day/</guid>
       <description>As a dev and then as a manager, I grew up in a &amp;ldquo;startup environment&amp;rdquo;. It was chaotic at times, but we were a team and we were in it together. I was fortunate to lead this team but at the time, &amp;ldquo;lead&amp;rdquo; felt overstated. I would nudge gently at points, define simple structures so we could track work and status, but mostly we had lots of high performing individuals and I just got out of their way.</description>
     </item>
     
     <item>
       <title>About This Blog</title>
-      <link>https://softwareshepherds.github.io/EscapeVelocity/about/</link>
+      <link>https://teamleadershipit.github.io/EscapeVelocity/about/</link>
       <pubDate>Thu, 22 Dec 2016 16:01:40 -0500</pubDate>
       
-      <guid>https://softwareshepherds.github.io/EscapeVelocity/about/</guid>
+      <guid>https://teamleadershipit.github.io/EscapeVelocity/about/</guid>
       <description>We&amp;rsquo;re interested in helping to address a gap in our industry: communication. Specifically, engaging internal &amp;amp; external customers in productive conversations, soliciting accurate insight into what they want, and being able to accurately, empathetically, and simply communicate back status from our technical teams. We want to contribute to the technical community ideas, process, and tooling.
 We&amp;rsquo;ve worked in and for organizations that feel as if they are throwing money &amp;ldquo;into a black hole&amp;rdquo; and in return get back inaccurate, over budget projects.</description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>https://softwareshepherds.github.io/EscapeVelocity/post/welcome/</link>
+      <link>https://teamleadershipit.github.io/EscapeVelocity/post/welcome/</link>
       <pubDate>Mon, 28 Nov 2016 17:45:09 -0500</pubDate>
       
-      <guid>https://softwareshepherds.github.io/EscapeVelocity/post/welcome/</guid>
+      <guid>https://teamleadershipit.github.io/EscapeVelocity/post/welcome/</guid>
       <description>Spicy jalapeno bacon ipsum dolor amet ball tip andouille cupim chuck, tail short loin ground round shankle filet mignon meatball frankfurter shank. Cupim beef ribs leberkas, frankfurter sirloin shank ground round chuck pork belly. Pork loin pork chop shankle ball tip. Pork loin chuck pancetta short loin beef ham andouille brisket porchetta. Jowl brisket hamburger picanha, pig turkey tenderloin pork belly cupim capicola ball tip flank landjaeger corned beef andouille. Ribeye filet mignon turkey pastrami meatball jowl.</description>
     </item>
     
